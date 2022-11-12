@@ -27,8 +27,8 @@
   align-items: right;
 }
 .logo {
-  width: auto;
-  height: auto;
+  width: 30%;
+  height: 30%;
   margin-top: 10px;
   margin-left: 10px;
   cursor: pointer;
