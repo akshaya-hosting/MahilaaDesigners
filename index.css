@@ -20,7 +20,7 @@
   height: auto;
 }
 .header {
-  width: 100%;
+  width: auto;
   height: 40%;
   margin-top: 0px;
   display: flex;
