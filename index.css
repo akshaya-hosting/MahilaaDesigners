@@ -21,14 +21,14 @@
 }
 .header {
   width: auto;
-  height: 40%;
+  height: auto;
   margin-top: 0px;
   display: flex;
   align-items: right;
 }
 .logo {
-  width: 30%;
-  height: 30%;
+  width: auto;
+  height: auto;
   margin-top: 10px;
   margin-left: 10px;
   cursor: pointer;
