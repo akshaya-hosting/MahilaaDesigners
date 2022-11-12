@@ -16,6 +16,8 @@
   background-position: "center";
   background-repeat: "no-repeat";
   background-size: "cover";
+  width: auto;
+  height: auto;
 }
 .header {
   width: 100%;
